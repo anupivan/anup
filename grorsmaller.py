@@ -1,4 +1,4 @@
-#program for complex calculation of numbers
+#program for greater or equal to of numbers
 
 
 
