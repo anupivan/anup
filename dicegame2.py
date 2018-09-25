@@ -1,4 +1,4 @@
-#programing in playing a dicegame
+#dicegame
 import random
 while True:
 	i=input("enter r to roll or q to quit")
