@@ -8,3 +8,4 @@ print(result)
 
 
 
+output=300
