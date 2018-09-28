@@ -61,3 +61,106 @@ while(count<=100):
 		break
 		
 		
+		
+		output=enter r to rollr
+my position 1
+random value 1
+enter r to rollr
+my position 2
+random value 1
+enter r to rollr
+my position 7
+random value 5
+enter r to rollr
+my position 8
+random value 1
+wow you got a ladder
+my position 37
+enter r to rollr
+my position 38
+random value 1
+oops snake bit you
+my position 9
+enter r to roll
+enter r to rollr
+my position 14
+random value 5
+enter r to rollr
+my position 18
+random value 4
+enter r to rollr
+my position 20
+random value 2
+enter r to rollr
+my position 26
+random value 6
+enter r to rollr
+my position 31
+random value 5
+enter r to rollr
+my position 34
+random value 3
+enter r to rollr
+my position 37
+random value 3
+enter r to rollr
+my position 39
+random value 2
+enter r to rollr
+my position 42
+random value 3
+enter r to rollr
+my position 43
+random value 1
+enter r to rollr
+my position 46
+random value 3
+enter r to rollr
+my position 51
+random value 5
+enter r to rollr
+my position 54
+random value 3
+enter r to rollr
+my position 59
+random value 5
+enter r to rollr
+my position 64
+random value 5
+enter r to rollr
+my position 67
+random value 3
+enter r to rollr
+my position 71
+random value 4
+enter r to rollr
+my position 72
+random value 1
+enter r to rollr
+my position 74
+random value 2
+enter r to rollr
+my position 79
+random value 5
+enter r to rollr
+my position 80
+random value 1
+enter r to rollr
+my position 86
+random value 6
+enter r to rollr
+my position 91
+random value 5
+enter r to rollr
+my position 92
+random value 1
+enter r to rollr
+my position 94
+random value 2
+enter r to rollr
+my position 100
+random value 6
+your the winner
+
+		
+		
